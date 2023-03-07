@@ -7,7 +7,7 @@ I’m a enginering software’s student in Universidad de Colima, I’m a person
 ```javascript
 const namoku = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Lua, PHP],
+  code: [JavaScript, TypeScript, HTML, CSS, Python, Lua, Redux],
   tools: [React, Node, Jest, Express, MySQL, SQLite],
   techCommunities: {
                         student: "BrightCoders"
